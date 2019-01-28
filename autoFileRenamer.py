@@ -1,9 +1,9 @@
 
 import os
 
-path = "C:/Phishing_site_detection/images/google/"
+path = "FOLDER CONTAINING THE FILES TO BE RENAMED"
 for i, filename in enumerate(os.listdir(path)):
-    os.rename("C:/Phishing_site_detection/images/google/" + filename, "C:/Phishing_site_detection/images/google/" + str(i) + ".jpeg")
+    os.rename("FOLDER CONTAINING THE FILES TO BE RENAMED" + filename, "FOLDER CONTAINING THE FILES TO BE RENAMED" + str(i) + ".jpeg")
 
 
 
