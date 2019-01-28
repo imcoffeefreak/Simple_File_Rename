@@ -4,8 +4,8 @@ It is generally a difficult task to rename a bunch of files when needed! This si
 ## To run the file
 
 ```
-> python autoFileRenamer.py
+ python autoFileRenamer.py
 
 ```
 
-### MADE WITH :heart: [DSI](https://www.dsilabz.com)
+##### MADE WITH :heart: [DSI](https://www.dsilabz.com)
